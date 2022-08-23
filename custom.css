@@ -1,0 +1,57 @@
+
+.cart-badge
+{	position:relative;
+	left: 5 px;
+	color:red;
+	background: silver;
+}
+.slide-image{
+	min-height:350px;
+	max-height:350px;
+	height:350px;
+	width:1500px;
+}
+
+.icon-image{
+	min-height:100px;
+	max-height:100px;
+	height:100px;
+
+}
+.product-image{
+	min-height:100px;
+	max-height:100px;
+	height:200px;
+	width:300px;
+text-align:center;
+}
+.row-md-3
+{
+	min-height:200px;
+	max-height:200px;
+	height:200px;
+	width:250px;
+	margin-bottom:60px;
+	text-align:center;
+}
+.footer-row{
+	text-align:center;
+}
+.sidebar{
+	width:180px;
+	position:absolute;
+	z-index:10000;
+	transition:1s;
+}
+.hide_sidebar{
+	
+	margin-left:-180px;
+}
+.mymenu{
+	color:silver;
+	margin-right:20px;
+}
+
+
+
+
